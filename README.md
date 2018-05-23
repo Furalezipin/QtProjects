@@ -1,0 +1,2 @@
+# QtProjects
+A simple calculator
